@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/location-sharing/static/css/main.736d88ce.css",
+    "main.js": "/location-sharing/static/js/main.6aecbd0d.js",
+    "index.html": "/location-sharing/index.html",
+    "main.736d88ce.css.map": "/location-sharing/static/css/main.736d88ce.css.map",
+    "main.6aecbd0d.js.map": "/location-sharing/static/js/main.6aecbd0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736d88ce.css",
+    "static/js/main.6aecbd0d.js"
+  ]
+}
